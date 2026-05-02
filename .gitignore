@@ -8,6 +8,10 @@ media
 
 # Backup files #
 *.bak
+project
+manage.py
+
+
 
 # If you are using PyCharm #
 .idea/**/workspace.xml
@@ -128,3 +132,4 @@ gunicorn-error-log
 db.sqlite3
 db copy.sqlite3
 static/
+
