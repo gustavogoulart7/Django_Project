@@ -10,6 +10,7 @@ media
 *.bak
 project
 manage.py
+recipes
 
 
 
